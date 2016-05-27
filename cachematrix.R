@@ -5,6 +5,8 @@
 # 3. Sets the inverse of the invertible matrix (setInverse function)
 # 4. Gets the inverse of the invertible matrix (getInverse function)
 
+## Date modified: 27-05-2015
+
 
 makeCacheMatrix <- function(x = matrix()) {
   I <- NULL
